@@ -1,0 +1,48 @@
+body {
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.5;
+  color: #000000;
+}
+
+#main {
+  background-color: #c0c0c0;
+  border-radius: 5px;
+  margin: 20px 10px;
+  padding: 15px;
+}
+#tribute-link {
+  color: #2f4f4f;
+  text-decoration: none;
+}
+#tribute-link:hover {
+  color: #808080;
+}
+
+ul {
+  width: 60%;
+  margin: 0 auto;
+  text-align: justify;
+}
+#img-div {
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#img-caption {
+  margin-top: 15px;
+}
+blockquote {
+  font-style: italic;
+  font-size: 60%;
+}
